@@ -36,8 +36,7 @@ The physical layout of the circuit was developed in Cadence Virtuoso, following 
 
 ## Project Report
 
-[**View the complete CAD Design Report (PDF)**](cad-design-report.pdf)
-
+[**View the complete CAD Design Report (PDF)**](cadence-virtuoso-sel-circuit/CAD Design Report.pdf
 ## Learning Outcomes
 
 This project provided practical experience in schematic entry, symbol generation, and physical layout design using an integrated circuit design environment.
